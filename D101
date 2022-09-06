@@ -1,0 +1,7 @@
+n = input() #input num 
+x = n[0] #take the first digit as x
+if x == '2' or x == '3': #boolean 
+    print('Fixed')
+elif x == '9' or x == '6' or x == '5': #boolean
+    print('Mobile') 
+#result 
